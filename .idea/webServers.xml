@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6688b184-478c-45fc-8235-130ebed177ef" name="deepali">
+        <fileTransfer rootFolder="/root/Deepali" accessType="SFTP" host="deepali.port0.org" port="22" sshConfigId="fb278282-8132-49e9-b819-b97be83a7c8c" sshConfig="root@deepali.port0.org:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
